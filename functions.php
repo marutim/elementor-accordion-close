@@ -1,3 +1,4 @@
+<?php
 /**
  * Enqueuing the scripts and css
  *
